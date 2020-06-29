@@ -19,3 +19,9 @@ Basic Git Command :-
 - To merge a branch into current branch.
 10. git commit -am "Message"
 - To add(stage) and commit at the single time.
+11. git remote add origin "your url"
+- To add your repo to remote(github).
+12. git remote -v
+- To check what availabe remote repos you have.
+13. git push -u origin master
+- To push your repo to the master branch on remote(github).
