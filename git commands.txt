@@ -1,0 +1,9 @@
+Basic Git Command :-
+1. git init
+- To initialise a git repository for a new or existing project.
+2. git add <file_name>
+- Add one or more files(git add .) to staging(index).
+3. git status
+- List the files that you've changed and those you still need to add or commit.
+4. git commit -m "commit message"
+- commit changes to head.
