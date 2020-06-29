@@ -27,3 +27,5 @@ Basic Git Command :-
 - To push your repo to the master branch on remote(github).
 14. git push origin "branch name"
 - To push your current branch to remote.
+15. git pull 
+- To download the files that were changed remotely to your local repo.
