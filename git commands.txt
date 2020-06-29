@@ -17,3 +17,5 @@ Basic Git Command :-
 - To switch from current branch to another branch.
 9. git merge <branch_name>
 - To merge a branch into current branch.
+10. git commit -am "Message"
+- To add(stage) and commit at the single time.
