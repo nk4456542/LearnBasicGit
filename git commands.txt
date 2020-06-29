@@ -25,3 +25,5 @@ Basic Git Command :-
 - To check what availabe remote repos you have.
 13. git push -u origin master
 - To push your repo to the master branch on remote(github).
+14. git push origin "branch name"
+- To push your current branch to remote.
