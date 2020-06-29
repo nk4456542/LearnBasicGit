@@ -7,3 +7,13 @@ Basic Git Command :-
 - List the files that you've changed and those you still need to add or commit.
 4. git commit -m "commit message"
 - commit changes to head.
+5. git log
+- To see the log of all of your files
+6. git rm --cached <file_name>
+- To remove files from staging area(Unstage).
+7. git branch <branch_name>
+- To create a new branch with name as branch_name.
+8. git checkout <branch_name>
+- To switch from current branch to another branch.
+9. git merge <branch_name>
+- To merge a branch into current branch.
