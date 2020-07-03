@@ -29,3 +29,20 @@ Basic Git Command :-
 - To push your current branch to remote.
 15. git pull 
 - To download the files that were changed remotely to your local repo.
+16. git diff filename
+- Shows the changes you have made on that file
+17. git show file hash name
+- Shows what you changed during that commit
+18. git checkout master
+    git branch -d branchname
+- To delete the branch. But you have to switch to other branch before deleting 
+17. git reset --hard HEAD^
+- To go back to your previous commit and all the changed code will be deleted
+18. git reset --soft commithashname
+- To go back to the hashnamecommit and the changed code is still visible
+19. git restore --staged filename
+- To restore to the previous version and file is unstaged from the staging area
+20. git restore filename
+- To restore the file to previous version and remove from our tracking
+21. git commit --amend and then save by esc wq enter
+- To commit without creating new commit messages
